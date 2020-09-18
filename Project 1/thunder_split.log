@@ -1,0 +1,60 @@
+     2025 can be thunder-split as ( 20         + 25         )**2
+     3025 can be thunder-split as ( 30         + 25         )**2
+     9801 can be thunder-split as ( 98         + 01         )**2
+    10000 can be thunder-split as ( 100        + 00         )**2
+       81 can be thunder-split as ( 8          + 1          )**2
+      100 can be thunder-split as ( 10         + 0          )**2
+     2025 can be thunder-split as ( 20         + 25         )**2
+     3025 can be thunder-split as ( 30         + 25         )**2
+     9801 can be thunder-split as ( 98         + 01         )**2
+    10000 can be thunder-split as ( 100        + 00         )**2
+    88209 can be thunder-split as ( 88         + 209        )**2
+   494209 can be thunder-split as ( 494        + 209        )**2
+   998001 can be thunder-split as ( 998        + 001        )**2
+  1000000 can be thunder-split as ( 1000       + 000        )**2
+[2025, 3025, 9801, 10000] [81, 100, 2025, 3025, 9801, 10000, 88209, 494209, 998001, 1000000]
+
+ nice!   passed initial test 
+
+this may take quite a while to run...
+       81 can be thunder-split as ( 8          + 1          )**2
+      100 can be thunder-split as ( 10         + 0          )**2
+     2025 can be thunder-split as ( 20         + 25         )**2
+     3025 can be thunder-split as ( 30         + 25         )**2
+     9801 can be thunder-split as ( 98         + 01         )**2
+    10000 can be thunder-split as ( 100        + 00         )**2
+    88209 can be thunder-split as ( 88         + 209        )**2
+   494209 can be thunder-split as ( 494        + 209        )**2
+   998001 can be thunder-split as ( 998        + 001        )**2
+  1000000 can be thunder-split as ( 1000       + 000        )**2
+  4941729 can be thunder-split as ( 494        + 1729       )**2
+  7441984 can be thunder-split as ( 744        + 1984       )**2
+thunder_split_numbers found: [81, 100, 2025, 3025, 9801, 10000, 88209, 494209, 998001, 1000000, 4941729, 7441984]
+Found thunder split unumbers on [10,1.000000e+07]: seconds used=21.481032133102417
+       81 can be thunder-split as ( 8          + 1          )**2
+      100 can be thunder-split as ( 10         + 0          )**2
+     2025 can be thunder-split as ( 20         + 25         )**2
+     3025 can be thunder-split as ( 30         + 25         )**2
+     9801 can be thunder-split as ( 98         + 01         )**2
+    10000 can be thunder-split as ( 100        + 00         )**2
+    88209 can be thunder-split as ( 88         + 209        )**2
+   494209 can be thunder-split as ( 494        + 209        )**2
+   998001 can be thunder-split as ( 998        + 001        )**2
+  1000000 can be thunder-split as ( 1000       + 000        )**2
+  4941729 can be thunder-split as ( 494        + 1729       )**2
+  7441984 can be thunder-split as ( 744        + 1984       )**2
+ 24502500 can be thunder-split as ( 2450       + 2500       )**2
+ 25502500 can be thunder-split as ( 2550       + 2500       )**2
+ 52881984 can be thunder-split as ( 5288       + 1984       )**2
+ 60481729 can be thunder-split as ( 6048       + 1729       )**2
+ 99980001 can be thunder-split as ( 9998       + 0001       )**2
+100000000 can be thunder-split as ( 10000      + 0000       )**2
+300814336 can be thunder-split as ( 3008       + 14336      )**2
+493817284 can be thunder-split as ( 4938       + 17284      )**2
+[81, 100, 2025, 3025, 9801, 10000, 88209, 494209, 998001, 1000000, 4941729, 7441984, 24502500, 25502500, 52881984, 60481729, 99980001, 100000000, 300814336, 493817284]
+thunder_split_numbers found: [81, 100, 2025, 3025, 9801, 10000, 88209, 494209, 998001, 1000000, 4941729, 7441984, 24502500, 25502500, 52881984, 60481729, 99980001, 100000000, 300814336, 493817284]
+Fast version on [10,1.000000e+09]: seconds used= 0.07431197166442871
+
+
+  Great!!! You solved the bonus problem perfectly!!! 
+

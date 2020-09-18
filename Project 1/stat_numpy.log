@@ -1,0 +1,49 @@
+Test passed
+
+mean = 0,  deviation=0.1
+Test passed
+
+mean = 200,  deviation=4.572135954999579
+Test passed
+
+mean = 400,  deviation=6.424555320336759
+Test passed
+
+mean = 600,  deviation=7.845966692414834
+Test passed
+
+mean = 800,  deviation=9.044271909999159
+Test passed
+
+mean = 1000,  deviation=10.1
+Test passed
+
+mean = 1200,  deviation=11.054451150103322
+Test passed
+
+mean = 1400,  deviation=11.932159566199232
+Test passed
+
+mean = 1600,  deviation=12.749110640673518
+Test passed
+
+mean = 1800,  deviation=13.516407864998738
+Test passed
+
+mean = 2000,  deviation=14.24213562373095
+Test passed
+
+mean = 2200,  deviation=14.932396974191326
+Test passed
+
+mean = 2400,  deviation=15.591933384829668
+Test passed
+
+mean = 2600,  deviation=16.2245154965971
+Test passed
+
+mean = 2800,  deviation=16.833200530681513
+Test passed
+
+  Total 15 test:  Passed 15
+  Congratulations, you passed all tests for Problem 7.

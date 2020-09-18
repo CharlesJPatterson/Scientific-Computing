@@ -1,0 +1,56 @@
+
+
+Accuracy check for <function pi_pow2 at 0x1037b7290>
+  your returned pi = 3.1415926234528917,  computed using 31622777 terms of sum, in 11.2024117 seconds
+  error = |math.pi - pi| =3.01369014188424e-08
+  your # of terms is 31622777, target is 31622777
+Test barely passed, likely due to the inefficiency in the summing formula, not due to your code implementation
+
+
+Accuracy check for <function pi_pow2_2 at 0x1037a6f80>
+  your returned pi = 3.1415926334985826,  computed using 15811389 terms of sum, in 6.5008028 seconds
+  error = |math.pi - pi| =2.0091210473083265e-08
+  your # of terms is 15811389, should be 31622777 plus/minus at most 2
+Test barely passed, likely due to the inefficiency in the summing formula, not due to your code implementation
+
+
+Accuracy check for <function pi_pow3 at 0x1037f3f80>
+  your returned pi = 3.1415926535897967,  computed using 50001 terms of sum, in 0.0386742 seconds
+  error = |math.pi - pi| =3.552713678800501e-15
+  your # of terms is 50001, target is 50001
+Test passed for <function pi_pow3 at 0x1037f3f80>
+
+
+Accuracy check for <function pi_pow4 at 0x1037f3dd0>
+  your returned pi = 3.14159265358844,  computed using 5624 terms of sum, in 0.0022153 seconds
+  error = |math.pi - pi| =1.3531398224131408e-12
+  your # of terms is 5624, target is 5624
+Test barely passed, likely due to the inefficiency in the summing formula, not due to your code implementation
+
+
+Accuracy check for <function pi_pow4_2 at 0x1037f3ef0>
+  your returned pi = 3.141592653589074,  computed using 2813 terms of sum, in 0.0011584 seconds
+  error = |math.pi - pi| =7.189804307472514e-13
+  your # of terms is 2813, target is 2813
+Test barely passed, likely due to the inefficiency in the summing formula, not due to your code implementation
+
+
+Accuracy check for <function pi_pow5 at 0x1037f3d40>
+  your returned pi = 3.141592653589794,  computed using 501 terms of sum, in 0.0003734 seconds
+  error = |math.pi - pi| =8.881784197001252e-16
+  your # of terms is 501, target is 501
+Test passed for <function pi_pow5 at 0x1037f3d40>
+
+
+Accuracy check for <function pi_pow6 at 0x1037f3cb0>
+  your returned pi = 3.141592653589777,  computed using 159 terms of sum, in 0.0000622 seconds
+  error = |math.pi - pi| =1.5987211554602254e-14
+  your # of terms is 159, target is 159
+Test barely passed, likely due to the inefficiency in the summing formula, not due to your code implementation
+
+
+Accuracy check for <function pi_pow12 at 0x1037f3e60>
+  your returned pi = 3.1415926535897927,  computed using 18 terms of sum, in 0.0000184 seconds
+  error = |math.pi - pi| =4.440892098500626e-16
+  your # of terms is 18, target is 18
+Test passed for <function pi_pow12 at 0x1037f3e60>
