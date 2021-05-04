@@ -109,3 +109,5 @@ if __name__=='__main__':
         print("\nCongratulations, you passed all {} tests for Problem 2!".format(repeat))
     else:
         print("\n\t***** Some or all tests failed, need further debugging for this problem\n\n")
+
+    print("Check for github")
