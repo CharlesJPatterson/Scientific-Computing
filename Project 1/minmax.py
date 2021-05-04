@@ -110,4 +110,3 @@ if __name__=='__main__':
     else:
         print("\n\t***** Some or all tests failed, need further debugging for this problem\n\n")
 
-    print("Check for github")
